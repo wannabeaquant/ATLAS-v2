@@ -1,0 +1,11 @@
+[
+  {"ticker": "BTCUSDT", "sector": "Majors", "event_risk": false},
+  {"ticker": "ETHUSDT", "sector": "Majors", "event_risk": false},
+  {"ticker": "SOLUSDT", "sector": "Layer1", "event_risk": false},
+  {"ticker": "BNBUSDT", "sector": "Exchange", "event_risk": false},
+  {"ticker": "XRPUSDT", "sector": "Payments", "event_risk": false},
+  {"ticker": "DOGEUSDT", "sector": "Meme", "event_risk": false},
+  {"ticker": "LINKUSDT", "sector": "Infra", "event_risk": false},
+  {"ticker": "AVAXUSDT", "sector": "Layer1", "event_risk": false},
+  {"ticker": "ADAUSDT", "sector": "Layer1", "event_risk": false}
+]

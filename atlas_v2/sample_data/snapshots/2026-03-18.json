@@ -1,0 +1,15 @@
+{
+  "as_of": "2026-03-18T00:00:00Z",
+  "regime_hint": "RISK_ON",
+  "rows": [
+    {"ticker": "BTCUSDT", "sector": "Majors", "price": 91480.0, "ret_5d": 0.03, "ret_20d": 0.113, "rel_strength": 0.82, "trend_strength": 0.062, "volume_acceleration": 0.2, "volatility_20d": 48.6, "avg_daily_value_usd": 47700000000.0, "event_risk": false, "forward_return_5d": 0.024},
+    {"ticker": "ETHUSDT", "sector": "Majors", "price": 5062.0, "ret_5d": 0.042, "ret_20d": 0.151, "rel_strength": 1.04, "trend_strength": 0.077, "volume_acceleration": 0.24, "volatility_20d": 62.9, "avg_daily_value_usd": 26300000000.0, "event_risk": false, "forward_return_5d": 0.03},
+    {"ticker": "SOLUSDT", "sector": "Layer1", "price": 242.0, "ret_5d": 0.057, "ret_20d": 0.185, "rel_strength": 1.18, "trend_strength": 0.099, "volume_acceleration": 0.32, "volatility_20d": 89.4, "avg_daily_value_usd": 9520000000.0, "event_risk": false, "forward_return_5d": 0.044},
+    {"ticker": "BNBUSDT", "sector": "Exchange", "price": 809.0, "ret_5d": 0.016, "ret_20d": 0.071, "rel_strength": 0.46, "trend_strength": 0.039, "volume_acceleration": 0.08, "volatility_20d": 44.5, "avg_daily_value_usd": 3570000000.0, "event_risk": false, "forward_return_5d": 0.011},
+    {"ticker": "XRPUSDT", "sector": "Payments", "price": 1.86, "ret_5d": -0.01, "ret_20d": -0.034, "rel_strength": -0.38, "trend_strength": -0.024, "volume_acceleration": -0.07, "volatility_20d": 72.0, "avg_daily_value_usd": 5350000000.0, "event_risk": false, "forward_return_5d": -0.013},
+    {"ticker": "DOGEUSDT", "sector": "Meme", "price": 0.285, "ret_5d": -0.023, "ret_20d": -0.086, "rel_strength": -0.75, "trend_strength": -0.05, "volume_acceleration": -0.09, "volatility_20d": 97.9, "avg_daily_value_usd": 4240000000.0, "event_risk": false, "forward_return_5d": -0.03},
+    {"ticker": "LINKUSDT", "sector": "Infra", "price": 28.4, "ret_5d": 0.011, "ret_20d": 0.064, "rel_strength": 0.34, "trend_strength": 0.031, "volume_acceleration": 0.04, "volatility_20d": 59.9, "avg_daily_value_usd": 1880000000.0, "event_risk": false, "forward_return_5d": 0.008},
+    {"ticker": "AVAXUSDT", "sector": "Layer1", "price": 62.2, "ret_5d": 0.036, "ret_20d": 0.124, "rel_strength": 0.9, "trend_strength": 0.067, "volume_acceleration": 0.16, "volatility_20d": 83.5, "avg_daily_value_usd": 2460000000.0, "event_risk": false, "forward_return_5d": 0.019},
+    {"ticker": "ADAUSDT", "sector": "Layer1", "price": 1.22, "ret_5d": -0.006, "ret_20d": -0.009, "rel_strength": -0.16, "trend_strength": -0.011, "volume_acceleration": -0.03, "volatility_20d": 67.2, "avg_daily_value_usd": 2080000000.0, "event_risk": false, "forward_return_5d": -0.005}
+  ]
+}
