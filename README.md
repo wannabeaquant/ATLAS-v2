@@ -10,6 +10,12 @@ ATLAS v2 is a runnable crypto paper-trading and research scaffold inspired by th
 - Version policy and prompt changes cleanly
 - Make every recommendation measurable
 
+## Repo hygiene
+
+- Commit and push frequently.
+- Prefer small, reviewable changes over large batched rewrites.
+- Keep the contribution graph active by shipping incremental improvements instead of waiting for perfect milestones.
+
 ## Architecture
 
 ```text
